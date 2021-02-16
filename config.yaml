@@ -1,0 +1,13 @@
+naps2_path: "C:/Program Files (x86)/NAPS2/NAPS2.Console.exe"
+categories: 
+ - book
+ - dochod
+ - "dowód-wewnętrzny"
+ - "gsm"
+ - "hardware" 
+ - "mieszkanie"
+ - "najem"
+ - "paliwo"
+ - "przelew"
+ - "software"
+output_dir: "D:/test_dir"
